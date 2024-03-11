@@ -1,4 +1,4 @@
-# game_booking_app
+# GameZone
 
 A new Flutter project.
 
